@@ -14,7 +14,7 @@ const Projects = () => {
               <img  src="/Screenshot 2025-02-06 195755.png" className="col-lg-8"/>
           </div>
           <div className="row py-4 d-block">
-              <p className='btn btn-outline-primary col-3 ms-3 ms-lg-0'><Link to="https://cargocontractors.vercel.app/" className='text-dark text-decoration-none'>Cargo Contractors</Link></p>
+              <p className='btn btn-outline-primary col-3 ms-3 ms-lg-0'><Link to="https://cargocontractors.vercel.app/" className='text-dark text-decoration-none'> Cargo Contractors</Link></p>
               <img  src="/Screenshot cargo.jpg" className="col-lg-8"/>
           </div>
           <div className="row py-4 d-block">
