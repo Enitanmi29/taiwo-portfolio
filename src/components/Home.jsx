@@ -17,9 +17,8 @@ const Home = () => {
               <h2>Summary</h2>
               <hr/>
               <p style={{textAlign:'justify'}}>
-                Aspiring to build a remarkable career that positively impacts the workforce and humanity. <span className='d-block'> A young, intuitive, and self-driven quick learner with a strong academic foundation and a passion for software development. Equipped with excellent problem-solving abilities, interpersonal skills, and a collaborative spirit, I am eager to contribute to organizational growth while continually improving my technical expertise and gaining hands-on experience. </span> 
-                My ultimate goal is to leverage my skills to create innovative solutions that make the world a better place.        
-              </p>
+                I am a passionate and self-driven Software/Frontend Engineer with a strong academic foundation and a commitment to building innovative solutions that create a positive impact in the workplace and society at large. With hands-on experience in software development, I possess excellent problem-solving abilities, strong interpersonal skills, and a collaborative spirit. I actively contribute to organizational growth by developing user-friendly and efficient digital products while continuously advancing my technical expertise. My ultimate goal is to leverage technology to solve real-world problems and make meaningful contributions to a better, more connected world.
+                 </p>
             </div>
           </div>
                 {/* About section */}

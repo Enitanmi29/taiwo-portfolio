@@ -9,7 +9,11 @@
     {subtitle:'University of Lagos - B. Sc., Civil and Environmental Engineering ', 
      text:'Jan 2014 - Dec 2019							Yaba, Lagos state, Nigeria'},
     {subtitle:'Complete Full-Stack Web Development Bootcamp ',
-     text:'Jan 2025 - February 2025'},
+     text:'Jan 2024 - February 2024'},
+    {subtitle:'Frontend Development Bootcamp ',
+      text:'May, 2023 – August, 2023'},
+    {subtitle:'Advanced Web Development Bootcamp',
+      text:'September, 2023 – December, 2023'},
  ]
 
  export const experience = [
@@ -46,6 +50,9 @@
     },
     {subtitle:'Frameworks', 
     list: [ 'Node.JS', 'Tailwind CSS', 'Bootstrap' ]
+    },
+    {subtitle:'Tools', 
+     list: [ 'Git', 'JSON' ]
     },
     {subtitle:'Others', 
     list: [ 'Bilingual', 'Team Player', 'Microsoft Excel', 'Microsoft Office', 'AutoCAD', 'Duty Management', 'Leadership']
